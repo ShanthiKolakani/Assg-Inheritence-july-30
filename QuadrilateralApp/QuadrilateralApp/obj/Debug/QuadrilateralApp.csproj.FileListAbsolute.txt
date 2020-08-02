@@ -1,0 +1,10 @@
+E:\FrontEND\DotNetConsole\QuadrilateralApp\QuadrilateralApp\bin\Debug\QuadrilateralApp.exe.config
+E:\FrontEND\DotNetConsole\QuadrilateralApp\QuadrilateralApp\bin\Debug\QuadrilateralApp.exe
+E:\FrontEND\DotNetConsole\QuadrilateralApp\QuadrilateralApp\bin\Debug\QuadrilateralApp.pdb
+E:\FrontEND\DotNetConsole\QuadrilateralApp\QuadrilateralApp\obj\Debug\QuadrilateralApp.csprojAssemblyReference.cache
+E:\FrontEND\DotNetConsole\QuadrilateralApp\QuadrilateralApp\obj\Debug\QuadrilateralApp.csproj.CoreCompileInputs.cache
+E:\FrontEND\DotNetConsole\QuadrilateralApp\QuadrilateralApp\obj\Debug\QuadrilateralApp.exe
+E:\FrontEND\DotNetConsole\QuadrilateralApp\QuadrilateralApp\obj\Debug\QuadrilateralApp.pdb
+E:\FrontEND\DotNetConsole\QuadrilateralApp\QuadrilateralApp\bin\Debug\QuadriLatPart1Lib.dll
+E:\FrontEND\DotNetConsole\QuadrilateralApp\QuadrilateralApp\bin\Debug\QuadriLatPart1Lib.pdb
+E:\FrontEND\DotNetConsole\QuadrilateralApp\QuadrilateralApp\obj\Debug\QuadrilateralApp.csproj.CopyComplete
