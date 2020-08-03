@@ -1,0 +1,7 @@
+E:\FrontEND\DotNetConsole\VechicleApp\VechicleApp\bin\Debug\VechicleApp.exe.config
+E:\FrontEND\DotNetConsole\VechicleApp\VechicleApp\bin\Debug\VechicleApp.exe
+E:\FrontEND\DotNetConsole\VechicleApp\VechicleApp\bin\Debug\VechicleApp.pdb
+E:\FrontEND\DotNetConsole\VechicleApp\VechicleApp\obj\Debug\VechicleApp.csprojAssemblyReference.cache
+E:\FrontEND\DotNetConsole\VechicleApp\VechicleApp\obj\Debug\VechicleApp.csproj.CoreCompileInputs.cache
+E:\FrontEND\DotNetConsole\VechicleApp\VechicleApp\obj\Debug\VechicleApp.exe
+E:\FrontEND\DotNetConsole\VechicleApp\VechicleApp\obj\Debug\VechicleApp.pdb
